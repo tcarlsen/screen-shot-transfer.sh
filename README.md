@@ -1,13 +1,13 @@
 # screen-shot-transfer.sh
 
-This little Automator action will watch your Desktop folder for new screen shots and uplaod them to [transfer.sh](https://transfer.sh).
+This little Automator action will watch your Desktop for new files containing "Screen Shot" in the filename and uplaod them to [transfer.sh](https://transfer.sh).
 
-After the upload is done it will prompt you via notification center and copy the url to your clipboard for sharing!
+After the upload is done it will prompt you via Notification Center, copy the url to your clipboard for sharing and delete the file from the Desktop!
 
 ## Installation
 
- - Go download [ScreenShotShare.workflow](https://raw.githubusercontent.com/tcarlsen/screen-shot-transfer.sh/master/ScreenShotShare.workflow)
- - Double click and click "Install" then promoted
+ - Go download this repo and navigate to the folder 
+ - Double click on "ScreenShotShare.workflow" and click "Install" then promoted
  
 ## Usage
 
