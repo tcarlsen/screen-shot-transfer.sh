@@ -8,6 +8,9 @@ After the upload is done it will prompt you via Notification Center, copy the ur
 
  - Go download this repo and navigate to the folder 
  - Double click on "ScreenShotShare.workflow" and click "Install" then promoted
+ - Make sure that Automator.app is added in `Settings -> Security & Privacy -> Accessibility` 
+ 
+![Screenshot](https://cloud.githubusercontent.com/assets/145288/9602856/54fd48e0-50ac-11e5-9e10-3f898f6ee42f.png)
  
 ## Usage
 
