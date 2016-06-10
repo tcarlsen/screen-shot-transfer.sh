@@ -1,6 +1,6 @@
 # screen-shot-transfer.sh
 
-This little Automator action will watch your Desktop for new files containing "Screen Shot" in the filename and uplaod them to [transfer.sh](https://transfer.sh).
+This little Automator action will watch your Desktop for new files containing "Screen Shot" in the filename and upload them to [transfer.sh](https://transfer.sh).
 
 After the upload is done it will prompt you via Notification Center, copy the url to your clipboard for sharing and delete the file from the Desktop!
 
